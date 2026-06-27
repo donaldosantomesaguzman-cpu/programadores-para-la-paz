@@ -1,0 +1,8 @@
+El uso responsable de la información en internet, la participación ciudadana
+ y la organización del trabajo técnico con herramientas como Git están relacionados 
+ porque todos requieren actuar con responsabilidad, ética y colaboración.
+  Así como es importante verificar la información antes de compartirla y participar
+   de manera informada en la sociedad, Git permite organizar el trabajo en equipo
+    de forma transparente, registrar los cambios realizados y facilitar la colaboración
+     entre varias personas, promoviendo la confianza, el orden y el cumplimiento de buenas
+      prácticas en los entornos digitales.
