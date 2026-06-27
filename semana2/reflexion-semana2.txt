@@ -1,0 +1,8 @@
+Saber usar la terminal ayuda a un desarrollador a moverse con rapidez entre carpetas y archivos.
+Permite organizar los proyectos de manera más clara y ordenada.
+También facilita encontrar información y revisar el estado de un trabajo sin perder tiempo.
+La terminal reduce la dependencia de interfaces gráficas y acelera tareas repetitivas.
+Además, es una herramienta muy útil para trabajar con Git y publicar cambios en GitHub.
+Comprender estos comandos mejora la productividad y la confianza al desarrollar software.
+Una buena organización de archivos facilita la colaboración con otros miembros del equipo.
+En resumen, dominar la terminal es una habilidad esencial para cualquier desarrollador.
