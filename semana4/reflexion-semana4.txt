@@ -1,0 +1,8 @@
+Las comunidades y organizaciones ciudadanas necesitan herramientas tecnológicas propias para resolver problemas locales con autonomía.
+Node.js y tecnologías abiertas permiten construir soluciones de forma accesible y flexible.
+Estas herramientas facilitan la creación de plataformas, servicios digitales y procesos de participación comunitaria.
+Además, al ser abiertas, pueden adaptarse a las necesidades específicas de cada contexto.
+El desarrollo propio reduce la dependencia de soluciones externas y promueve la innovación social.
+También permite que más personas aprendan a construir tecnología de manera responsable y colaborativa.
+Usar tecnologías abiertas fortalece la soberanía digital y la inclusión en la sociedad.
+En resumen, construir herramientas propias contribuye al empoderamiento y al desarrollo comunitario.
