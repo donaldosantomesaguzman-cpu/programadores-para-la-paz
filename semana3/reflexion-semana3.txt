@@ -1,0 +1,8 @@
+Mantener un registro de cambios es fundamental porque permite conocer qué se modificó en cada etapa del proyecto.
+Esto ayuda a identificar errores y a corregirlos con mayor facilidad.
+También facilita la colaboración entre varias personas que trabajan sobre el mismo código.
+Git ofrece una trazabilidad clara que mejora la organización del desarrollo.
+Cuando un proyecto crece, los cambios pueden volverse difíciles de seguir sin una herramienta de control de versiones.
+Gracias a los commits, se puede revisar el historial y volver a versiones anteriores si es necesario.
+Además, el uso de Git aumenta la seguridad y la confianza al trabajar en software.
+En resumen, registrar cambios de forma ordenada es clave para desarrollar de manera profesional.
