@@ -1,0 +1,21 @@
+¿QUÉ HACE LA RUTA POST /REPORTE?
+
+La ruta POST /reporte es un endpoint que recibe datos del cliente y los procesa. Específicamente:
+
+1. Recibe una solicitud HTTP POST con un cuerpo JSON que contiene un campo "mensaje"
+2. Extrae el mensaje del objeto req.body.mensaje
+3. Valida que se recibió correctamente y responde con un JSON que contiene:
+   - estado: "Reporte recibido" (confirmación del procesamiento)
+   - mensaje: el contenido que el usuario envió
+
+UTILIDAD EN UNA APLICACIÓN COMUNITARIA:
+
+Esta ruta podría usarse para que miembros de la comunidad envíen reportes sobre:
+
+- Situaciones de riesgo o emergencias
+- Denuncias anónimas sobre problemas en el territorio
+- Solicitudes de ayuda humanitaria
+- Reportes de recursos disponibles (alimentos, medicinas, etc.)
+- Comunicación de eventos comunitarios
+
+La ruta POST permite que múltiples usuarios envíen información de forma segura al servidor, donde puede ser almacenada en una base de datos, registrada en un archivo o procesada para alertar a administradores o líderes comunitarios.

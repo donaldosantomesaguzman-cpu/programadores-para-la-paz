@@ -1,0 +1,17 @@
+PRUEBAS DE LAS RUTAS
+
+Ruta 1: http://localhost:3000
+- La ruta raíz responde con el mensaje "Servidor activo"
+- Indica que el servidor está funcionando correctamente
+- Es la ruta principal del servidor Express
+
+Ruta 2: http://localhost:3000/saludo
+- Accede a la ruta GET /saludo
+- El servidor responde con el mensaje "Hola comunidad"
+- Esta ruta no requiere parámetros, siempre devuelve el mismo saludo
+
+Ruta 3: http://localhost:3000/mensaje/juan
+- Accede a la ruta GET /mensaje/:nombre con el parámetro "juan"
+- El servidor captura el nombre de la URL (juan) usando req.params.nombre
+- Responde con "Hola juan" (el nombre es dinámico, puede ser cualquier palabra)
+- Si accedieras a /mensaje/maria respondería "Hola maria"
